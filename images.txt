@@ -5,4 +5,4 @@ mysql:8.0
 nginx:alpine
 
 #支持jdk8
-openjdk:8-jdk-alpine
+maven:3.5.0-jdk-8-alpine
